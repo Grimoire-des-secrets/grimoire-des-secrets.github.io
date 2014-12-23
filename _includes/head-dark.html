@@ -64,6 +64,10 @@
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
 
+            <li>
+              <a href="{{ site.url }}/feed.xml" target="_blank" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed" >S'abonner</a>
+            </li>
+
           </ul>
         </nav>
       </div>
