@@ -1,0 +1,12 @@
+---
+layout: book
+title: Une histoire de monstre
+description: "Tous les chapitres du livre sont réunis ici."
+comments: false
+cartegorie: tag
+---
+
+{% capture this_word %}{{ "Une histoire de monstre" }}{% endcapture %}
+{% for post in site.tags[this_word] reversed %}{% if post.title != null %}
+  <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.subtitle }}">{{ post.subtitle }}</a></li>
+{% endif %}{% endfor %}

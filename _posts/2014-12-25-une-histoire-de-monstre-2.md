@@ -9,6 +9,7 @@ extract: |
 comments: true
 categories: articles
 date: 2014-12-25
+tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
@@ -16,7 +17,7 @@ Comme d'habitude, je me glisse par la fenêtre et descends l'escalier. La rampe 
 
 Pour le moment, j'ai froid. Je suis nue sous mon long imperméable noir. Je n'ai pas envie de ruiner une nième tenue. Je sais que dès que ma fourrure percera ma peau j'aurai chaud. Déjà, je sens en passant ma langue que mes canines se sont allongées. Très vite, elles adoptent une taille qui me déforme la bouche.
 
-J'avance dans les rues en prenant bien soin de rester dans l'ombre. Je trace jusqu'à la forêt qui longe la ville et j'y pénètre. La forêt prend peu à peu vie autour de moi. Mes sens s'aiguisent et surtout mes yeux changent. Maintenant, le faible rayon de lune qui traverse la ramure des arbres suffit à éclairer mon chemin."z"zq<
+J'avance dans les rues en prenant bien soin de rester dans l'ombre. Je trace jusqu'à la forêt qui longe la ville et j'y pénètre. La forêt prend peu à peu vie autour de moi. Mes sens s'aiguisent et surtout mes yeux changent. Maintenant, le faible rayon de lune qui traverse la ramure des arbres suffit à éclairer mon chemin.
 J'arrive au pied d'un monticule de rochers de granit. Entre eux, j'ai trouvé une petite cachette où je peux entreposer mon manteau le temps de ma promenade. Une fois toute nue, je m'assoie sur la roche et j'attends.
 J'attends patiemment que ma transformation termine. Elle n'est plus douloureuse mais le passage où les genoux se déboitent pour s'inverser n'est jamais agréable.
 

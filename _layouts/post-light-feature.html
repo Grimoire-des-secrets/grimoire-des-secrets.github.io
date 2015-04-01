@@ -22,10 +22,13 @@
             <h2>{{page.subtitle}}</h2>
             <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
             <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
+            <!--<p class="tags">{{page.tags}}</p>-->
           </hgroup>
         </header>
 
         {{ content }}
+
+      <a class="tag" href="{{ site.url }}/{{ page.tags[0] }}.html">{{ page.tags[0] }}</a>
 
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.canonical }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

@@ -9,6 +9,7 @@ extract: |
 comments: true
 categories: articles
 date: 2014-12-29
+tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
@@ -25,10 +26,13 @@ Mais je tremble de plus en plus et je ne sais pas quoi faire. Comment gérer une
 
 Je cherche du regard un indice. Je m'habitue à la lumière. Je commence à distinguer des silhouettes. Ils sont nombreux. Malgré moi, un cri plaintif s'échappe de ma gorge. J'ai tellement peur! Mon estomac est serré et devient de plus en plus acide. J'ai mal, la peur me fait souffrir.
 
-- Il est terrifié, dit la voix grave et douce 
+- Il est terrifié, dit la voix grave et douce.
+
 Je sursaute. Je tourne la tête vers cette voix.
+
 - Il doit comprendre qu'il est foutu, répond une voix froide comme la glace.
 - Major! S'exclame une troisième voix.
+
 Major ? Des militaires ?! Je réalise. Je suis foutue. Je n'ai aucune chance de m'en sortir. Que faire? Trouver une montre. J'ai besoin de savoir.
 
 Habituée à la lumière, j'avance vers les barreaux. Tout doucement, je m'approche des voix. L'un d'entre eux doit bien avoir une montre. Je m'assoie devant eux, faire semblant d'être sereine...

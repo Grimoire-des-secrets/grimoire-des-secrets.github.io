@@ -9,6 +9,7 @@ extract: |
     Je ne considère pas ma vie comme étant triste à cause de ce fait, compliquée serait plus exact. Je suis un monstre depuis que j’ai 15 ans. Je n’ai rien pu faire pour m’empêcher d’en devenir un et je ne ferai rien non plus pour ne plus l’être. Je m’y suis habituée. Toutes les nuits à 22h00, heure d’été, je me transforme en une bête assoiffée de chair et de sang. Ce n'est pas beau à voir et il est alors fortement déconseillé de me rencontrer. Parfaitement humaine le jour, vous ne pourriez me soupçonner mais de 22h00 à 4h00, c’est une bête affamée que vous risqueriez de croiser...
 categories: articles
 date: 2014-12-21
+tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
