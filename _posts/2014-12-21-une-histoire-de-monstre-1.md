@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: Une histoire de monstre
 subtitle: Chapitre 1
-description: "Quand la vie vous transforme en cauchemard, il faut pourtant bien faire avec..."
+description: "Quand la vie vous transforme en cauchemar, il faut pourtant bien faire avec..."
 comments: true
 extract: |
     Je m’appelle Ambre Fawen et je suis un monstre.
