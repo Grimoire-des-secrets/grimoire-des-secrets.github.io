@@ -34,6 +34,6 @@ J'ai dû perdre connaissance. Ils sont partis. Je suis toujours allongée, nue, 
 
 Je ferme les yeux. Je me demande si on peut mourir par volonté. J'écoute mon cœur. Il bat très vite. Pourquoi fait-il ça l'idiot ? Pourquoi ne se contente-t-il pas de s'arrêter ? Ce serait tellement plus simple. Oui. Ce serait une douce sortie. 
 
-Quand j'essaie de bouger, j'ai des élancements violant dans les jambes et sur les bras. Ma tête semble peser des tonnes. Pourquoi suis-je humaine ? Pourquoi suis-je si faible ? La bête est elle si forte. Elle ne se laissera pas abattre si facilement. Ils ne pourront pas la blesser comme ils me blessent. Je voudrais qu'elle revienne. Je ne veux plus être humaine. 
+Quand j'essaie de bouger, j'ai des élancements violant dans les jambes et sur les bras. Ma tête semble peser des tonnes. Pourquoi suis-je humaine ? Pourquoi suis-je si faible ? La bête est, elle, si forte. Elle ne se laissera pas abattre si facilement. Ils ne pourront pas la blesser comme ils me blessent. Je voudrais qu'elle revienne. Je ne veux plus être humaine. 
 
 J'essaie de ne pas penser. Penser, c'est trop douloureux. Il faut que je tienne encore un peu. Il faut que je m'accroche. Il ne faut pas penser à ce qui va suivre. Il me faut toute ma volonté pour me redresser. Je réussi à me trainer jusqu'à la chemise que j'enfile tant bien que mal. Mes jambes ne peuvent pas me porter. Je reste recroquevillé par terre, essayant de reprendre des forces. Ou plutôt, patientant, que la bête revienne.
