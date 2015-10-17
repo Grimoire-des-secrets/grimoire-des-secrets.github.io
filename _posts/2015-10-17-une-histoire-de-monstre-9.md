@@ -7,7 +7,7 @@ extract: |
     J'ai été la bête mais je suis de plus en plus faible. Elle n'a pas bougé. Roulée en boule, elle a dormi, peut-être pour la toute première fois. On essaie d'économiser nos forces. Encore une fois, je n'ai pas réussi à la retenir. J'attends maintenant. Je reste par terre. Parfois je tousse. Souvent je frissonne. De plus en plus rarement, je pense...
 comments: true
 categories: articles
-date: 2015-10-17
+date: 2015-10-16
 tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
