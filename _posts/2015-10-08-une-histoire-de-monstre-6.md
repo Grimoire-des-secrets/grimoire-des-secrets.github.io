@@ -18,7 +18,7 @@ Ils débarquent armés de l'autre côté des barreaux. Je grogne. Ils me mettent
 
 L'électricité m'empêche d'approcher. Dommage, un coup de griffe entre deux barreaux me ferait tellement plaisir ! 
 
-Je tourne en rond dans la cage pendant des heures. Babines retroussées, grognement continue, poils de l'échines dressés, j'essaie d'impressionner. Mais en face, personne ne fait mine de réagir. Puis ils repartent. 
+Je tourne en rond dans la cage pendant des heures. Babines retroussées, grognement continu, poils de l'échines dressés, j'essaie d'impressionner. Mais en face, personne ne fait mine de réagir. Puis ils repartent. 
 
 Me revoilà seule. Ni mes hurlements, ni le raclage de mes griffes sur le sol et les murs ne les font revenir. Face à la bête, ils se savent trop faibles et ne tentent même pas d'intervenir. La nuit passe et le moment fatidique revient. 
 
@@ -26,7 +26,7 @@ J'ai froid. J'ai déchiré la chemise en me transformant. Je la noue autour de m
 
 Mon visage me fait moins mal. Au toucher, je sens le sang séché mais les équimoses sont moins enflées, il me semble. Je me suis recroquevillée sur la banquette. Ils vont surement revenir... 
 
-Les heures passent mais rien ni personne n'arrive. Mon estomac a grogné sa faim pendant quelques temps puis s'est tu. Je n'ai aucune fenêtre vers l'extérieur. Il n'y a pas non plus de bruit, juste les néons qui diffusent une lumière pâlotte de l'autre côté des barreaux. Maintenant, je tremble de froid. Des vagues de frissons parcourent en continue ma peau. 
+Les heures passent mais rien ni personne n'arrive. Mon estomac a grogné sa faim pendant quelques temps puis s'est tu. Je n'ai aucune fenêtre vers l'extérieur. Il n'y a pas non plus de bruit, juste les néons qui diffusent une lumière pâlotte de l'autre côté des barreaux. Maintenant, je tremble de froid. Des vagues de frissons parcourent en continu ma peau. 
 
 Je ne sais pas ce qui se passe. Il y a des hommes quelque part en train de décider de ma vie sans que je puisse me défendre. Que choisissent-ils ? Vont-ils m'abattre ? Vont-ils encore m'interroger ? Est-ce que je dois répondre ? J'essaie d'imaginer des situations. Et si je leur disais que je ne contrôle rien sous ma forme de bête ? Que je suis autant victime que coupable ? Que je n'ai jamais demandé à devenir ça ? Que je n'ai jamais voulu tuer ! Que c'était la faim, la bête, le monstre ! Mais pas moi... surtout pas moi. 
 
