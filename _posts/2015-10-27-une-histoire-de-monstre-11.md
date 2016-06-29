@@ -12,7 +12,7 @@ tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
-J'enrage. Ca fait des jours que j'enrage. Comment une telle histoire peut-elle être possible ? J'ai chassé ce monstre pendant si longtemps ! Qu'est-ce que j'ai attrapé ?? Je devais être satisfait, je devais être vengé ! Des mois de traque pour arriver à ça ! C'est insupportable ! 
+J'enrage. Ça fait des jours que j'enrage. Comment une telle histoire peut-elle être possible ? J'ai chassé ce monstre pendant si longtemps ! Qu'est-ce que j'ai attrapé ?? Je devais être satisfait, je devais être vengé ! Des mois de traque pour arriver à ça ! C'est insupportable ! 
 
 Je croise mon reflet dans le miroir. J'ai une tête épouvantable. Ça m'énerve ! Je frappe ! Ça n'a même pas le mérite de calmer mes nerfs. Je passe de l'eau sur ma main pour en retirer les éclats de verre et le sang. Le sang ne s'arrête pas, je suis quitte pour passer à l'infirmerie. Je suis encore plus énervé.
 
@@ -22,7 +22,7 @@ J'arrive à l'infirmerie. Le cabinet médical occupe plusieurs petites salles ad
 
 - Montre-moi ta main.
 
-Elle la pose sur sa table d'occultation, saisi une pince fine et recherche à la lumière les fragments de verre qui ont pu rester coincés. Aussi étrange que cela puisse paraître, les picotements finissent pas me détendre. J'en suis presqu'à regretter la fin des soins.
+Elle la pose sur sa table d'occultation, saisi une pince fine et recherche à la lumière les fragments de verre qui ont pu rester coincés. Aussi étrange que cela puisse paraître, les picotements finissent par me détendre. J'en suis presqu'à regretter la fin des soins.
 
 - Qu'est-ce que tu as foutu pour mettre ta main dans un tel état ? Me demande-t-elle en plaçant des compresses et une bande autour. 
 

@@ -28,7 +28,7 @@ Je sens ma peau fourmiller. Pitié, non ! Je dois rester une bête. Par pitié !
 
 Ils ont compris ce qu'il se passe. Ils ne loupent rien du spectacle. Je rampe avant la fin de ma transformation jusqu'à la chemise. Je veux disparaître. Je les entends ricaner. Je me blottie dans un coin. Je les entends arriver. 
 
-Deux d'entre eux m'attrapent par les chevilles et me tirent. Je me débats. Je cris. Je griffe. Mes coups les font rire. Ils sont trois à me plaquer le ventre contre le sol. Ma chemise est arrachée. Je cris le plus fort possible. Ils me saisissent pas les cheveux et m'éclate la tête sur le sol. Je suis à moitié consciente mais je les sens me pénétrer violemment encore et encore. J'ai mal. Ma vue est brouillée par des larmes mêlées de sang.  
+Deux d'entre eux m'attrapent par les chevilles et me tirent. Je me débats. Je cris. Je griffe. Mes coups les font rire. Ils sont trois à me plaquer le ventre contre le sol. Ma chemise est arrachée. Je cris le plus fort possible. Ils me saisissent par les cheveux et m'éclate la tête sur le sol. Je suis à moitié consciente mais je les sens me pénétrer violemment encore et encore. J'ai mal. Ma vue est brouillée par des larmes mêlées de sang.  
 
 J'ai dû perdre connaissance. Ils sont partis. Je suis toujours allongée, nue, couverte de sang et de sperme sur le sol. Je ne peux pas bouger. Je n'en ai pas la force. Tout mon corps n'est que douleur. Je n'en peux plus. 
 

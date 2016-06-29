@@ -39,4 +39,4 @@ Il y a un silence. Je voudrais protéger mes yeux de la lumière. C'est insuppor
 
 - Je sais combien de personnes j'ai tué... Je ne sais pas leurs noms... Je ne sais pas qui ils étaient... Mais je sais leurs visages... La couleur de leurs cheveux... La couleur de leurs yeux... Je me souviens de chacun d'entre eux. 
 
-Les larmes ont inondés mon visage. Le bras m'empêche de respirer. Je suffoque. Je me débats. Je m'épuise. J'ai la tête renversée en arrière. Je distingue la silhouette d'un homme en cagoule. Je ne vois pas ses yeux. Il a resserré son emprise. L'air me manque. J'étouffe.
+Les larmes ont inondé mon visage. Le bras m'empêche de respirer. Je suffoque. Je me débats. Je m'épuise. J'ai la tête renversée en arrière. Je distingue la silhouette d'un homme en cagoule. Je ne vois pas ses yeux. Il a resserré son emprise. L'air me manque. J'étouffe.

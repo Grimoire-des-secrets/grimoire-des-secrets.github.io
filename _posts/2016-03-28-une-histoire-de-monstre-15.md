@@ -12,7 +12,7 @@ tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
-Déjà trois jours que Ravin est passé. Sa boite n'a pas bougée. J'enrage toujours autant mais des fois, pendant quelques minutes, j'ai mauvaise conscience. J'enrage d'autant plus. Je refuse toujours de toucher à la boite. Je sais qu'elle contient un disque dur mais je ne sais pas quelles informations celui-ci peut détenir. Je me demande si Ravin qui n'est que médecin, n'aurait pas commis quelques infractions pour récupérer des données. J'aurai probablement des problèmes si je regarde ce que contient le disque. J'aurai sûrement des ennuis rien qu'à le conserver. J'ai longuement hésité à le détruire et puis finalement, j'ai repoussé la décision.
+Déjà trois jours que Ravin est passé. Sa boite n'a pas bougé. J'enrage toujours autant mais des fois, pendant quelques minutes, j'ai mauvaise conscience. J'enrage d'autant plus. Je refuse toujours de toucher à la boite. Je sais qu'elle contient un disque dur mais je ne sais pas quelles informations celui-ci peut détenir. Je me demande si Ravin qui n'est que médecin, n'aurait pas commis quelques infractions pour récupérer des données. J'aurai probablement des problèmes si je regarde ce que contient le disque. J'aurai sûrement des ennuis rien qu'à le conserver. J'ai longuement hésité à le détruire et puis finalement, j'ai repoussé la décision.
 
 On sonne à ma porte. Depuis l'écran, je vois Olivia qui attend au garde à vous. Je la fais entrer. 
 
@@ -26,7 +26,7 @@ C'est à mon tour de soupirer. Je l'invite à s'assoir dans le canapé. Si Olivi
 - Non, je n'en sais rien. 
 - Je ne sais pas non plus, me répond-t-elle, mais il y a des bruits qui courent depuis le début et ils me mettent de plus en plus mal à l'aise. 
 
-Elle me regarde droit dans le yeux et je sens son embarras émaner de son visage crispé. 
+Elle me regarde droit dans les yeux et je sens son embarras émaner de son visage crispé. 
 
 - En tant qu'humaine et en tant que femme, si les rumeurs sont vraies, je n'aimerai pas être à sa place. Et quand je me dis que je fais partie de ceux qui l'y ont mis... J'ai la gerbe. 
 
@@ -44,7 +44,7 @@ Je ne comprends pas. Que ce passe-t-il ? Qu'elle soit en train de mourir ne semb
 
 Elle acquiesce en silence. Elle est en train de fixer le disque dur sur la table. Je me racle la gorge et lui fait signe de me laisser. 
 
-Je reste contempler le disque dur, incapable de prendre une décision. Je sens que ce que je vais voire ne va pas me plaire. J'ai pas non plus envie que mon opinion sur le monstre change. Je le hais et le haïrai éternellement. Mais Olivia ne m'a pas dit tout ce qu'elle savait. Ou la suite est encore plus sombre et dure à dire ou bien les informations sont plus que des rumeurs. Il faut que je sache ce qui c'est passé depuis que j'ai ramené ce monstre ici.  
+Je reste contempler le disque dur, incapable de prendre une décision. Je sens que ce que je vais voire ne va pas me plaire. J'ai pas non plus envie que mon opinion sur le monstre change. Je le hais et le haïrai éternellement. Mais Olivia ne m'a pas dit tout ce qu'elle savait. Ou la suite est encore plus sombre et dure à dire ou bien les informations sont plus que des rumeurs. Il faut que je sache ce qui s'est passé depuis que j'ai ramené ce monstre ici.  
 
 J'attrape la boite et je vais la connecter à l'écran du salon. Le disque ne contient que deux dossiers, l'un nommé "cellule", l'autre "interrogatoire". Il y a des fichiers vidéos horodatés dans chacun des dossiers. J'hésite encore un peu. Ce sont les enregistrements des cameras de surveillance... 
 

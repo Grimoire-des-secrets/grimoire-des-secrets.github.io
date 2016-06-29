@@ -41,4 +41,4 @@ C'est trop dur de résister. J'ai trop soif. Je me sens tellement mal.
 
 - Je ne sais pas. C'est venu tout seul. J'ai jamais rien voulu de tout ça. Je vous en supplie, laissez-moi. Laissez-moi.
 
-La réponse n'a pas dû leur plaire. Ils m'ont remise dans ma cage sans une goutte d'eau de plus. Je lèche la chemise  pour en aspirer la moindre micro goutte qui reste.
+La réponse n'a pas dû leur plaire. Ils m'ont remise dans ma cage sans une goutte d'eau de plus. Je lèche la chemise pour en aspirer la moindre micro goutte qui reste.

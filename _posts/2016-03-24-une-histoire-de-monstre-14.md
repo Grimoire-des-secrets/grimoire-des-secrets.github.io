@@ -12,7 +12,7 @@ tags: [Une histoire de monstre]
 image: 
         feature: soft-trees.jpg
 ---
-Il y a de l'électricité dans l'air. Depuis que nous sommes rentrés de mission hier, je la sens. Les hommes sont nerveux. Au débriefing, Grahams a à peine écouté nos résultats. Nous avons tout de même réussi à débloquer la situation de crise au Yahobe. Ce n'est pas rien ! Après des mois de stagnation, nos troupes ont enfin pu reprendre le contrôle des villes frontalières à l'Est du pays.
+Il y a de l'électricité dans l'air. Depuis que nous sommes rentrés de mission hier, je la sens. Les hommes sont nerveux. Au débriefing, Grahams a, à peine, écouté nos résultats. Nous avons tout de même réussi à débloquer la situation de crise au Yahobe. Ce n'est pas rien ! Après des mois de stagnation, nos troupes ont enfin pu reprendre le contrôle des villes frontalières à l'Est du pays.
 
 Mais sur le visage de Grahams, j'ai vu passer la peur à plusieurs reprises dans son regard. Il faut que je me renseigne.
 
@@ -38,7 +38,7 @@ Ma gorge se serre. J'ai un très mauvais pressentiment.
 
 Je m'éloigne. La cage est solide, électrifiée. Quels risques ont-ils pris pour lui donner une occasion de les attaquer ? Et pourquoi Grahams est-il dans un tel état de panique ?
 
-Machinalement, je rentre dans mes appartements. Au moment de fermer la porte, quelqu'un déboule et me bouscule. C'est le docteur Ravin. Il a l'air chamboulé. Il tient un petite boite serrée contre lui.
+Machinalement, je rentre dans mes appartements. Au moment de fermer la porte, quelqu'un déboule et me bouscule. C'est le docteur Ravin. Il a l'air chamboulé. Il tient une petite boite serrée contre lui.
 
 - Fermez la porte, m'ordonne-t-il.
 
@@ -74,7 +74,7 @@ Il insiste fortement sur les derniers mots. Mon ventre se serre. Est-ce que j'au
 
 Il a l'air de prendre peur comme s'il avait pris une très mauvaise décision. Il me fixe quelques instants. Je sens qu'il voudrait que je change d'avis mais c'est trop me demander.
 
-- Vous ne pouvez pas, reprend-t-il. Ce qu'ils lui font... ce sont eux les monstre ! Il faut intervenir ou sinon, elle sera perdue !
+- Vous ne pouvez pas, reprend-t-il. Ce qu'ils lui font... ce sont eux les monstres ! Il faut intervenir ou sinon, elle sera perdue !
 
 Il sort en courant. Comment ça "elle sera perdue" ? Qu'a-t-il voulu dire par là ?
 

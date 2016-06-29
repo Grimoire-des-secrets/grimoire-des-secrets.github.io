@@ -40,7 +40,7 @@ Je feins l'étonnement. C'était évident après tout ce que j'ai fait mais fair
 
 - Merci mon Général. C'était un honneur d'avoir votre confiance pour cette affaire. Le monstre est-il toujours dans nos bâtiments ?
 
-Nouveau soupir. Qu'est ce qui le gène à ce point?
+Nouveau soupir. Qu'est ce qui le gène à ce point ?
 
 - Vous ne devriez plus vous en faire pour cette créature. Elle est sous étroite surveillance et ne pourra plus nuire à personne. Cette affaire n'est maintenant plus entre vos mains Major. La créature sera bientôt transférée dans un centre plus adapté.
 

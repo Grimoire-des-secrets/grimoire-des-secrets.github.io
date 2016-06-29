@@ -29,7 +29,7 @@ Je les entraine vers la ligne de départ. Je fais un signe à un des infirmiers 
 
 - Go ! 
 
-Je pars en sprint. Cent mètres plus loin, le premier obstacle nous attends. C'est une échelle de corde. Il y en a suffisamment pour que chacun ai la sienne et même Thomas a su tenir le sprint. On monte, on passe par-dessus la poterne, on redescend par la même échelle, on lâche à quelques mètres du sol et on repart en sprint vers l'épreuve suivante. 
+Je pars en sprint. Cent mètres plus loin, le premier obstacle nous attend. C'est une échelle de corde. Il y en a suffisamment pour que chacun ait la sienne et même Thomas a su tenir le sprint. On monte, on passe par-dessus la poterne, on redescend par la même échelle, on lâche à quelques mètres du sol et on repart en sprint vers l'épreuve suivante. 
 
 Ça fait du bien. Je sens mes jambes et mes bras trembler d'épuisement. Thomas s'écroule à côté de moi. Bien. Il a enfin réussi à suivre le rythme. Olivia me maudit dans un souffle qui aurait dû rester discret mais je suis enfin calmé et je laisse passer. 
 
@@ -41,4 +41,4 @@ Je ne comprends pas. Pourquoi s'être retransformée dans la cage. Qu'espérait-
 
 J'en peux plus de toutes ces questions... 
 
-En revenant dans mon salon, mon écran de communication s'est allumé. Il est fondu dans le mur à droite de ma porte. Ces écrans ont été installés il y a quelques mois. Ils sont très pratiques pour contrôler la température et la qualité de l'air des apparements mais aussi pour communiquer entre collègues. Et là, je constate que je suis convoqué dans le bureau du général Grahams. Je vais peut-être avoir quelques informations.
+En revenant dans mon salon, mon écran de communication s'est allumé. Il est fondu dans le mur à droite de ma porte. Ces écrans ont été installés il y a quelques mois. Ils sont très pratiques pour contrôler la température et la qualité de l'air des appartements mais aussi pour communiquer entre collègues. Et là, je constate que je suis convoqué dans le bureau du général Grahams. Je vais peut-être avoir quelques informations.
